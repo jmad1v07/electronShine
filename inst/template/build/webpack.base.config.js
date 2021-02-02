@@ -41,4 +41,4 @@ module.exports = env => {
       new FriendlyErrorsWebpackPlugin({ clearConsole: env === "development" })
     ]
   };
-};
+};  
